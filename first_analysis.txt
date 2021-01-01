@@ -1,0 +1,7 @@
+After studying all the SQL Files, here's what I found:
+
+-no orphans
+-no duplicates
+-a few barron parents
+-about .001% files missing in target
+	(100 out of 101,395 records)
